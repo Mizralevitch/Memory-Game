@@ -1,0 +1,10 @@
+<resources>
+    <string name="main">ראשי</string>
+    <string name="app_name">משחק זיכרון מפלצות</string>
+    <string name="next_level">שלב הבא</string>
+    <string name="points_text">כל הכבוד! הנקודות שלך:</string>
+    <string name="previous_level">שלב קודם</string>
+    <string name="quit">יציאה</string>
+    <string name="banner_home_footer">ca-app-pub-1670977584460082/6170396655</string>
+    <string name="buy_icons">רכישת אייקון</string>
+</resources>

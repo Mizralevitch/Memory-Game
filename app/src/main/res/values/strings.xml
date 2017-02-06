@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Monsters Memory Game</string>
+    <string name="buy_icons">Buy</string>
+    <string name="next_level">Next Level</string>
+    <string name="points_text">BRAVO! Your points: </string>
+    <string name="previous_level"> Previous Level</string>
+    <string name="quit">Quit</string>
+    <string name="banner_home_footer">ca-app-pub-1670977584460082/6170396655</string>
+    <string name="main">main</string>
+
+</resources>
